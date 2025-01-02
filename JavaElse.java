@@ -15,6 +15,7 @@ public static void main(String args[]) {
         }
         else
         System.out.println("Not adult");
+
     } catch (InputMismatchException e) {
         System.out.println("Invalid input. Please enter an integer.");
     }
