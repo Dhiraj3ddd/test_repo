@@ -8,16 +8,17 @@ public class primeJava {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter value of int n -> ");
         int n = sc.nextInt();
-        boolean isPrime = true;
+        
 
         if (n ==2 ){
             System.out.println("n is prime");
         }
         else 
         {
+            boolean isPrime = true;
         for(int i = 2; i <= n-1; i++)
            {
-           if (i%n == 0)
+           if (n%i== 0)
            {
            isPrime = false;
            }
