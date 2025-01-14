@@ -12,6 +12,6 @@ public class swap {
     }
 
     public static void main (String args[]){
-        swap(11,22);
+        swap(15,22);
     }
 }
