@@ -26,7 +26,7 @@ public class leetcode1 {
  
    public static void main(String args[]){
 
-    String s1 = "aaabbbccd";
+    String s1 = "aaabbbccd" ;
 
     leetcode1 sol = new leetcode1();
     int minL = sol.minLength(s1);
