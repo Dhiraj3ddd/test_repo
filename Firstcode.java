@@ -2,7 +2,7 @@ package one;
 public class Firstcode{
     public static void main (String args[]){
 
-        System.out.println("This is a java print statement");
+        System.out.println("This is a simple java print statement");
     }
 
 }
