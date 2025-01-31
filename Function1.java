@@ -14,6 +14,6 @@ public static void main(String args[]){
     int a = sc.nextInt();
     int b = sc.nextInt();
     int add = calculateSum(a, b);
-    System.out.println("sum is :- "+ add);
+    System.out.println("sum is : "+ add);
 }   
 }
