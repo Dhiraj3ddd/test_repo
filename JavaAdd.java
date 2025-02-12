@@ -11,6 +11,6 @@ public class JavaAdd {
       int b = sc.nextInt();
     
     int result = a+b ;
-    System.out.println(" a+b = " + result);
+    System.out.println(" a+b =  " + result);
   }
 }
