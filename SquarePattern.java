@@ -8,7 +8,7 @@ public class SquarePattern
         System.out.println (" Printing with FOR loop ") ; 
         for(int line = 1;
                 line<= 4;
-                line ++   ) 
+                line ++  ) 
             {
             System.out.println (" # # # # ") ;       
             }
