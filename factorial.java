@@ -1,6 +1,6 @@
 package one;
 
-public class factorial {
+public class factorial  {
     public static int facto (int n){
 
         int f = 1;
