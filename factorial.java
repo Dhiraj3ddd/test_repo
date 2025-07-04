@@ -1,4 +1,4 @@
-package one;
+package one ;
 
 public class factorial  {
     public static int facto (int n){
