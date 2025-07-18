@@ -1,4 +1,4 @@
-package one ;
+package one;
 
 public class leetcode1 {
     public int minLength(String s){
