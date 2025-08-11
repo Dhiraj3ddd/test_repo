@@ -1,4 +1,4 @@
-package one  ;
+package one ;
 
 public class inverse_star {
     public static void main(String args[]){
