@@ -1,6 +1,6 @@
-package one;
+package one ;
 
-public class factorial {
+public class factorial  {
     public static int facto (int n){
 
         int f = 1;
@@ -14,7 +14,7 @@ public class factorial {
     }
 
     public static void main (String args[]){
-        System.out.println("The fatorial : " + facto(7));
+        System.out.println("The fatorial is =>" + facto(6));
     }
 }
 
