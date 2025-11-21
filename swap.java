@@ -1,6 +1,6 @@
 package one;
 
-public class swap {
+public class swap  {
     public static void swap (int a, int b){
 
         int temp = a;
