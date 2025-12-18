@@ -1,8 +1,8 @@
-package one;
+package one ;
 
 public class SquarePattern
 {
-    public static void main (String args[])
+    public static void main(String args[])
     {
         {
         System.out.println (" Printing with FOR loop "); 
