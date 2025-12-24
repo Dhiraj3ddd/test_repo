@@ -1,6 +1,6 @@
-package one ;
+package one;
 
-public class leetcode1 {
+public class leetcode1  {
     public int minLength(String s){
     int [] freq = new int [26];
     
