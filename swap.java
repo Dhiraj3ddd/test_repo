@@ -1,4 +1,4 @@
-package one;
+package  one;
 
 public class swap  {
     public static void swap (int a, int b){
