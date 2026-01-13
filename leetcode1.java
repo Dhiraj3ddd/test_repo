@@ -15,7 +15,7 @@ public class leetcode1  {
 
     for (int count : freq ){
         if(count % 2 == 1){
-            length += 1;
+            length = length+1 ;
         } else {
             length += Math.min(2,count);
         }
