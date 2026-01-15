@@ -3,7 +3,7 @@ package one;
 import java.util.Scanner ;
 
 public class primeJava {
-    public static void main (String args[])
+    public static void main  (String args[])
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter value of int n -> ");
