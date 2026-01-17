@@ -1,5 +1,6 @@
 
-public class TrappedRainwater  {
+public class TrappedRainwater
+    {
 
     public static int trw(int height[]) {
         //cal left max bndry -array
