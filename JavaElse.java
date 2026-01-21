@@ -1,13 +1,13 @@
-package one ;
+package one;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class JavaElse{
+public class JavaElse {
     
 public static void main(String args[]) {
     
-    try (Scanner sc = new Scanner(System.in)) {
+    try (Scanner sc = new Scanner( System.in)) {
         int age = sc.nextInt();
 
         if (age >= 18 ){
