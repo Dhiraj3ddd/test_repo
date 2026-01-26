@@ -10,7 +10,7 @@ public class SquarePattern
                 line<= 4;
                 line ++  ) 
             {
-            System.out.println (" # # # # ") ;       
+            System.out.println ("  # # # # ") ;       
             }
         }
     
@@ -22,7 +22,7 @@ public class SquarePattern
            {
            
 
-            System.out.println (" *  *  *  * ") ;
+            System.out.println ("  *  *  *  * ") ;
             l++;
            }
         }
