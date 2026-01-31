@@ -11,11 +11,11 @@ public class leetcode1  {
     
     
 
-    int length = 0;
+    int length =  0;
 
     for (int count : freq ){
         if(count % 2 == 1){
-            length = length+1 ;
+            length = length+ 1 ;
         } else {
             length += Math.min(2,count);
         }
@@ -24,7 +24,7 @@ public class leetcode1  {
        }
    
  
-   public static void main(String args[]){
+   public static void main(String  args[]){
 
     String s1 = "aaabbbccd" ;
 
