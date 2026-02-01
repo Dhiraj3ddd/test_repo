@@ -1,4 +1,4 @@
-package one;
+package one ;
 
 import java.util.Scanner ;
 
@@ -6,17 +6,17 @@ public class primeJava {
     public static void main  (String args[])
     {
         Scanner sc = new Scanner(System.in);
-        System.out.println("enter value of int n -> ");
+        System.out.println("enter value of int n-> ");
         int n = sc.nextInt();
         
 
         if (n ==2 ){
-            System.out.println("n is prime");
+            System.out.println("n is prime ");
         }
         else 
         {
             boolean isPrime = true;
-        for(int i = 2; i <= n-1; i++)
+        for(int i = 2; i <= n-1; ++i)
            {
            if (n%i== 0)
            {
