@@ -1,4 +1,4 @@
-package one ;
+package one;
 
 import java.util.Scanner;
 
@@ -15,13 +15,13 @@ public class Calculator{
         char operator = sc.next().charAt(0);
 
         switch (operator){
-            case '+' : System.out.println("Result is -> " + (a+b));
+            case '+' : System.out.println("Result is ->" + (a+b));
                        break;
             case '-' : System.out.println("Result -> " + (a-b));
                        break;
             case '*' : System.out.println("Result -> " + (a*b));
                        break;
-            case '/' : System.out.println("Result -> " + (a/b));
+            case '/' : System.out.println(" Result -> " + (a/b));
                        break;
             case '%' : System.out.println("Result -> " + (a%b));
                        break;
