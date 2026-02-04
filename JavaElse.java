@@ -11,13 +11,13 @@ public static void main(String args[]) {
         int age = sc.nextInt();
 
         if (age >= 18 ){
-            System.out.println("Adult");
+            System.out.println(" Adult");
         }
         else
-        System.out.println("Not adult");
+        System.out.println(" Not adult");
 
     } catch (InputMismatchException e) {
-        System.out.println("Invalid input, Please enter an integer.");
+        System.out.println("Invalid input, Please enter a positive number.");
     }
   }
 }
