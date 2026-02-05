@@ -1,4 +1,4 @@
-package one ;
+package one;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class JavaAdd {
       System.out.println("Enter number b-> ");
       int b = sc.nextInt();
     
-    int result = a+b ;
-    System.out.println (" a+b =  " + result);
+    int result = a + b ;
+    System.out.println ("a + b =  " + result);
   }
 }
