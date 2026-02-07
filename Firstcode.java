@@ -1,8 +1,8 @@
 package one;
-public class Firstcode {
+public class Firstcode{
     public static void main (String args[]){
 
-        System.out.println("This is a TEST java statement");
+        System.out.println("This is a TEST aka Demo java statement");
     }
 
 }
