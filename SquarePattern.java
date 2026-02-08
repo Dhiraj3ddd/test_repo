@@ -1,11 +1,11 @@
-package one  ;
+package one ;
 
 public class SquarePattern
 {
     public static void main(String args[])
     {
         {
-        System.out.println (" Printing with FOR loop "); 
+        System.out.println (" Printing with the FOR loop "); 
         for(int line = 1;
                 line<= 4;
                 line ++  ) 
