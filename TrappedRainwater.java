@@ -18,12 +18,12 @@ public class TrappedRainwater
         rightMax[n - 1] = height[n - 1];
 
         for (int i = n - 2; i >= 0; i--) {
-            rightMax[i] = Math.max(height[i], rightMax[i + 1]);
+            rightMax[i] = Math.max(height[i], rightMax[i +1]);
         }
 
         //loop
-        int trw1 = 0;
-        for (int i = 0; i < n; i++) {
+        int trw1 =0;
+        for (int i = 0; i < n; ++i) {
             //wat level = min(leftmx,rtmax)
             int waterLevel = Math.min(leftMax[i], rightMax[i]);
 
