@@ -1,10 +1,10 @@
-package one ;
+package one;
 
 public class Reverse1 
 {
     public static void main(String args[])
     {
-        int a =1892923456;
+        int a =1892923466;
 
         while (a>0)
         {
