@@ -14,7 +14,7 @@ public static void main(String args[]) {
             System.out.println(" Adult");
         }
         else
-        System.out.println(" Not adult");
+        System.out.println(" Not adult aka not 18+");
 
     } catch (InputMismatchException e) {
         System.out.println("Invalid input, Please enter a positive number.");
