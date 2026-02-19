@@ -5,7 +5,7 @@ public class factorial  {
 
         int f = 1;
 
-        for (int i =1 ; i <= n ; i++){
+        for (int i =1 ; i <= n ; ++i){
 
             f = f * i;
 
@@ -14,7 +14,7 @@ public class factorial  {
     }
 
     public static void main (String args[]){
-        System.out.println("The fatorial is =>" + facto(6));
+        System.out.println("The fatorial will be =>" + facto(6));
     }
 }
 
