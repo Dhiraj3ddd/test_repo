@@ -1,4 +1,4 @@
-package  one;
+package one;
 
 public class swap {
     public static void swap (int a,  int b){
@@ -7,8 +7,8 @@ public class swap {
         a = b;
         b = temp ;
 
-        System.out.println( "value of a :" + a);
-        System.out.println("value of b :" + b);
+        System.out.println( "value of a  :" + a);
+        System.out.println("value of b  :" + b);
     }
 
     public static void main (String args[]){
