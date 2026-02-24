@@ -6,10 +6,10 @@ public class Reverse1
     {
         int a =1892923466;
 
-        while (a>0)
+        while (a> 0)
         {
 
-            int lastDigit = a% 10;
+            int lastDigit = a%10;
             System.out.print ( lastDigit) ;
             a/= 10;
 
