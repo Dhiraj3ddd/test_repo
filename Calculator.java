@@ -9,7 +9,7 @@ public class Calculator{
         System.out.println("Enter number a->" );
         int a = sc.nextInt();
         
-        System.out.println("Enter number b-> ");
+        System.out.println("Enter integer b-> ");
         int b = sc.nextInt();
         
         char operator = sc.next().charAt(0);
