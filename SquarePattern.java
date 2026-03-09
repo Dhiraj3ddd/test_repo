@@ -8,7 +8,7 @@ public class SquarePattern
         System.out.println (" Printing with the FOR loop "); 
         for(int line = 1;
                 line<= 4;
-                line ++  ) 
+                line++  ) 
             {
             System.out.println ("  × × × × ") ;       
             }
@@ -18,7 +18,7 @@ public class SquarePattern
         int l =1;
         System.out.println (" Printing with WHILE loop ") ;    
 
-        while (l <= 4 )
+        while (l <=  4 )
            {
            
 
