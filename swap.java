@@ -5,10 +5,10 @@ public class swap {
 
         int temp = a;
         a = b;
-        b = temp ;
+        b = temp;
 
         System.out.println( "value of a  :" + a);
-        System.out.println("value of b  :" + b);
+        System.out.println("value of b :" + b);
     }
 
     public static void main (String args[]){
