@@ -18,7 +18,7 @@ public class TrappedRainwater
         rightMax[n - 1] = height[n - 1];
 
         for (int i = n - 2; i >= 0; --i) {
-            rightMax[i] = Math.max(height[i], rightMax[i +1]);
+            rightMax[i] = Math.max(height[i], rightMax[i+1]);
         }
 
         //loop
@@ -36,7 +36,7 @@ public class TrappedRainwater
     }
 
     public static void main(String args[]) {
-        int height[] = {4, 2, 0, 6, 3, 2, 5};
+        int height[] = {4, 1, 0, 6, 3, 2, 5};
         System.out.println(trw(height));
 
     }
