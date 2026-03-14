@@ -10,7 +10,7 @@ public class Reverse1
         {
 
             int lastDigit = a%10;
-            System.out.print ( lastDigit) ;
+            System.out.print ("last digit" + lastDigit) ;
             a/= 10;
 
         }
