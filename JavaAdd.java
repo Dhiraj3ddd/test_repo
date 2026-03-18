@@ -9,7 +9,7 @@ public class JavaAdd {
       System.out.println("Enter number a ->" );
       int a = sc.nextInt();
       
-      System.out.println("Enter integer/number b -> ");
+      System.out.println("Enter number b -> ");
       int b = sc.nextInt();
     
     int result = a + b ;
