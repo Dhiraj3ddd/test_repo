@@ -11,7 +11,7 @@ public class primeJava {
         
 
         if (n ==2 ){
-            System.out.println("n is prime ");
+            System.out.println("n is prime number ");
         }
         else 
         {
