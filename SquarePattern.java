@@ -18,7 +18,7 @@ public class SquarePattern
         int l =1;
         System.out.println (" Printing with WHILE loop ") ;    
 
-        while (l <=  4 )
+        while (l <= 4 )
            {
            
 
