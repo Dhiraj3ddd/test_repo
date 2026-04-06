@@ -19,7 +19,7 @@ public class Calculator{
                        break;
             case '-' : System.out.println("Result -> " + (a-b));
                        break;
-            case '*' : System.out.println("Result -> " + (a*b));
+            case '*' : System.out.println("Result => " + (a*b));
                        break;
             case '/' : System.out.println(" Result -> " + (a/b));
                        break;
