@@ -28,7 +28,7 @@ public class TrappedRainwater
             int waterLevel = Math.min(leftMax[i], rightMax[i]);
 
             //trapped wat = wat level - height[i]
-            trw1 += waterLevel - height[i];
+            trw1 += waterLevel -  height[i];
         }
 
         return trw1;
