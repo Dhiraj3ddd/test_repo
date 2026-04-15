@@ -1,7 +1,7 @@
 package one;
 
 public class swap {
-    public static void swap (int a,  int b){
+    public static void swap (int a, int b){
 
         int temp = a;
         a = b;
