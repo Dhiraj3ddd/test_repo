@@ -36,7 +36,7 @@ public class TrappedRainwater
     }
 
     public static void main(String args[]) {
-        int height[] = {4, 1, 0, 6, 3, 2, 5};
+        int height[] = {3, 1, 0, 6, 3, 2, 5};
         System.out.println(trw(height));
 
     }
