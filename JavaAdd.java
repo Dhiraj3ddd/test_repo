@@ -12,7 +12,7 @@ public class JavaAdd {
       System.out.println("Enter number b -> ");
       int b = sc.nextInt();
     
-    int result = a + b ;
+    int result = a + b;
     System.out.println ("a + b = " + result);
   }
 }
