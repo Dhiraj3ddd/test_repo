@@ -8,7 +8,7 @@ public class Function1 {
     return sum;
    } 
 
-public static void main( String args[] ){
+public static void  main( String args[] ){
 
     Scanner sc = new Scanner(System.in);
     int x = sc.nextInt();
