@@ -1,8 +1,7 @@
 
 public class TrappedRainwater
     {
-
-    public static int trw(int height[]) {
+        public static int trw(int height[]) {
         //cal left max bndry -array
         int n = height.length;
         int leftMax[] = new int[n];
